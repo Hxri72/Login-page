@@ -1,0 +1,83 @@
+body {
+ margin: 0px;
+ padding: 0px;
+}
+
+.section-1{
+  width: 100%;
+  height: 661px;
+  background: url(../images/rockstar.webp);
+  background-size: 100% 661px;
+  
+}
+
+form{
+  position: relative;
+  left: 123%;
+  top: 250%;
+  display: inline;
+}
+.login1{
+  background-color: black;
+  width: 34%;
+  color: darkgray;
+  padding-left: 67px;
+  height: 40px;
+  border-bottom-style: hidden;
+}  
+
+.login2{
+  background-color: black;
+  width:34%;
+  color: darkgray;
+  padding-left: 67px;
+  height: 40px;
+  border-bottom-style: hidden;
+}
+
+.loginbtn{
+  margin-left: 9%;
+  background-color: yellow;
+  color: black;
+  font-weight: 300;
+  border-color: black;
+  width: 85px;
+}
+
+.msg{
+  color:red;
+  font-weight: bold;
+}
+
+.home-logout{
+  text-decoration: none;
+  border-style: outset;
+  width: 78px;
+  height: 33px;
+  padding-left: 3px;
+  color: black;
+  border-radius: 5px;
+}
+.home-logout:hover{
+  color: black;
+}
+
+.hom{
+  height: 661px;
+  background-image: url(../images/town.jpg);
+  background-size: 100% 661px;
+}
+.bgcard{
+  
+  color: white;
+
+}
+
+
+
+
+
+
+
+
+
